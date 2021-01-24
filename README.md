@@ -4,4 +4,4 @@
 
 Main Activity 1         |  Main Activity 2
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/PoseDetectionApp1.png)  |  ![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/PoseDetectionApp2.png)
+![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/PoseDetectionApp1.jpg)  |  ![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/PoseDetectionApp2.jpg)
